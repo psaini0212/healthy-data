@@ -1,5 +1,46 @@
 {
-  "heartRate": null,
+  "heartRate": [
+    {
+      "timestamp": "2017-08-04T10:34:00.000Z",
+      "value": 64
+    },
+    {
+      "timestamp": "2017-08-04T10:35:00.000Z",
+      "value": 65
+    },
+    {
+      "timestamp": "2017-08-04T10:36:00.000Z",
+      "value": 66
+    },
+    {
+      "timestamp": "2017-08-04T10:37:00.000Z",
+      "value": 67
+    },
+    {
+      "timestamp": "2017-08-04T10:38:00.000Z",
+      "value": 68
+    },
+    {
+      "timestamp": "2017-08-04T10:39:00.000Z",
+      "value": 69
+    },
+    {
+      "timestamp": "2017-08-04T10:40:00.000Z",
+      "value": 70
+    },
+    {
+      "timestamp": "2017-08-04T10:41:00.000Z",
+      "value": 71
+    },
+    {
+      "timestamp": "2017-08-04T10:42:00.000Z",
+      "value": 72
+    },
+    {
+      "timestamp": "2017-08-04T10:43:00.000Z",
+      "value": 73
+    }
+  ],
   "activities": null,
   "sleep": null
 }
